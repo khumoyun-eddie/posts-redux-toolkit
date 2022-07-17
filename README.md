@@ -2,6 +2,8 @@
 ### Features:
 - [x] Author of the post
 - [x] Time of the post (time ago)
+- [x] Reactions (👍 0😮 0💟 0🚀 0🍵 0)
+
 
 ### NPM Packages:
 - date-fns
